@@ -10,7 +10,8 @@ def lepoesia():
   for linha in linhas:
     print(linha)
  
-
+if __name__ == '__main__':
+    main()
 
 
                 
